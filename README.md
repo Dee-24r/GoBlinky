@@ -1,6 +1,7 @@
 # My GoBlinky project
 
 ![3D-view pcb front](./images/GoBlinky_front.png)
+[BOM](#bill-of-materials)
 
 This is a chaser/blinky board. It's in the shape and design of  a STOP sign, but it says "GO". Periodtt!
 
