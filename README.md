@@ -1,6 +1,7 @@
 # My GoBlinky project
+![assembled](./images/assembled.jpeg)
 
-This is a Chaser Board, sometimes called a Chaser! Made all from scratch.
+This is a simple chaser board, sometimes called a blinky! Made all from scratch. What does she do? She Blinks!!
 
 [Watch her in action](https://youtube.com/shorts/273GlsKtG_Y?si=tUAFjzuMFvb2yS4Z):
 https://youtube.com/shorts/273GlsKtG_Y?si=tUAFjzuMFvb2yS4Z
