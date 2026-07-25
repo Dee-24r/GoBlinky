@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/78b2fccf-afea-48d7-8b8a-4e549cb79bda
+
 # My GoBlinky project
 ![assembled](./images/assembled.jpeg)
 
